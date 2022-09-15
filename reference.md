@@ -15,7 +15,7 @@
     $f\_\{\Theta\}: X \rightarrow y$ so that it can accurately predict $y^{new} \in
     \mathcal{D}^{new}$
 
-$y^{new} \in \mathcal{D}$
+$y^{new} \in \mathcal{D}^{new}$
 
 e.g. using home attributes to predict the sales price
 
