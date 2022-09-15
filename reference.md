@@ -19,7 +19,7 @@ e.g. using home attributes to predict the sales price
 
 * Why is supervised learning "supervised"?
 
-$\mathcal{D}:{y,x}$ you feed  Mathjax  includes the target values ($y$).
+$\mathcal{D}:\\{y,x\\}$ you feed  Mathjax  includes the target values ($y$).
 
 I.e.:  $y$ can help to supervise the training process to find optimal algorithm
 $\thetas$.
