@@ -12,7 +12,7 @@
 * What is supervised learning? 
 
     $T$: $L$ should use $\mathcal{D}$ $=\\{(X_i, y_i)\\}_{i=1}^n$ to learn
-    $f_\{\Theta\}: X \rightarrow y$ so that it can accurately predict $y^{new} \in
+    $f\_\{\Theta\}: X \rightarrow y$ so that it can accurately predict $y^{new} \in
     \mathcal{D}^{new}$.
 
 
