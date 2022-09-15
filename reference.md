@@ -12,17 +12,17 @@
 * What is supervised learning? 
 
     $T$: $L$ should use $\mathcal{D}=\{(X_i, y_i)\}_{i=1}^n$ to learn
-    $f_{\Theta}: X \mapsto y$ so that it can accurately predict $y^{new} \in
+    $f_{\Theta}: X \rightarrow y$ so that it can accurately predict $y^{new} \in
     \mathcal{D}^{new}$.
 
 e.g. using home attributes to predict the sales price
 
 * Why is supervised learning "supervised"?
 
-$\mathcal{D}:\{y,x\}$ you feed  Mathjax  includes the target values ($y$).
+$\mathcal{D}:{y,x}$ you feed  Mathjax  includes the target values ($y$).
 
 I.e.:  $y$ can help to supervise the training process to find optimal algorithm
-$\thetas$'s.
+$\thetas$.
 
 * What is predictive modeling?
 
