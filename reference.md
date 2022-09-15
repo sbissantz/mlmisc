@@ -45,7 +45,7 @@ I.e.: $y$ can help to supervise the training process to find optimal algorithm
 
 * What is unsupervised learning?
 
-    $T$: $L$ should use $\mathcal{D}$ to learn $f\_{\Theta}$ to accurately identify groups in $\mathcal{D}$ 
+    $T$: $L$ should use $\mathcal{D}$ to learn $f\_{\Theta}$ so that it can accurately identify groups in $\mathcal{D}$ 
 
 
 
