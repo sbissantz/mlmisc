@@ -18,7 +18,7 @@ e.g. using home attributes to predict the sales price
 
 $\mathcal{D}:\\{y,x\\}$ you feed $L$ includes the target values $(y)$.
 
-I.e.: $y$ can help to supervise the training process to find optimal algorithm $\theta$.
+I.e.: $y$ can help to supervise the training process to find optimal algorithm $\theta$.
 
 * What is predictive modeling?
 
