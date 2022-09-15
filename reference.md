@@ -19,7 +19,7 @@ e.g. using home attributes to predict the sales price
 
 * Why is supervised learning "supervised"?
 
-$\mathcal{D}:\\{y,x\\}$ you feed $L$ includes the target values ($y$).
+$\mathcal{D}:\\{y,x\\}$ you feed $L$ includes the target values $(y)$.
 
 I.e.:  $y$ can help to supervise the training process to find optimal algorithm
 $\theta$.
@@ -34,10 +34,12 @@ $\theta$.
     2. Classification problems
 
 * What is a classification problem?
+
     $\underset{\text{learning}}{\overset{\text{supervised}}{\oplus}}$: predict
     a *categorical outcome*
 
 * What is a regression problem?
+
     $\underset{\text{learning}}{\overset{\text{supervised}}{\oplus}}$: predict
     a *numeric outcome*
 
