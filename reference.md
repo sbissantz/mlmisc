@@ -43,6 +43,13 @@ I.e.: $y$ can help to supervise the training process to find optimal algorithm
     
     I.e.: when we predict the probability of a class
 
+* What is the 0/1 assignment rule in classification problems?
+
+    The class with the highest predicted probability becomes the predicted
+    class.
+
+    E.g.: e.g.: yes: 0.55, no: 0.45 $\rightarrow$ yes: 1, no: 0 
+
 * What is unsupervised learning?
 
     $T$: $L$ should use $\mathcal{D}$ to learn $f\_{\Theta}$ so that it can accurately identify groups in $\mathcal{D}$ 
