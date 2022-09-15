@@ -1,4 +1,4 @@
-# My little reference list
+# Reference list
 
 * What does machine learning (ML) mean?
 
@@ -42,5 +42,13 @@ I.e.: $y$ can help to supervise the training process to find optimal algorithm
     $\overset{Regression}{f: \mathbb{R} \rightarrow \mathbb{R}}  \quad \quad\overset{Classification}{f: \mathbb{R} \rightarrow [0,1]_{\in \mathbb{R}^+}}$
     
     I.e.: when we predict the probability of a class
+
+* What is unsupervised learning?
+
+    $T$: $L$ should use $\mathcal{D}$ to learn $f\_\{\Theta\} to accurately identify groups in $\mathcal{D}$ 
+
+
+
+
 
 
