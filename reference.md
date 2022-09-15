@@ -40,6 +40,7 @@ I.e.: $y$ can help to supervise the training process to find optimal algorithm
 * Regression problem $\overset{?}{=}$ Classification problem
 
     $\overset{Regression}{f: \mathbb{R} \rightarrow \mathbb{R}}  \quad \quad\overset{Classification}{f: \mathbb{R} \rightarrow [0,1]_{\in \mathbb{R}^+}}$
+    
     I.e.: when we predict the probability of a class
 
 
