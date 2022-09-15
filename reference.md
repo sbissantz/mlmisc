@@ -15,6 +15,10 @@
     $f\_\{\Theta\}: X \rightarrow y$ so that it can accurately predict $y^\{new\} \in
     \mathcal{D}^\{new\}$.
 
+$y^3$ 
+
+$y^{13}$
+
 e.g. using home attributes to predict the sales price
 
 * Why is supervised learning "supervised"?
